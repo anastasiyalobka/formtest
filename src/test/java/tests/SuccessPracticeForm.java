@@ -35,7 +35,6 @@ public class SuccessPracticeForm {
         $(".table-responsive").shouldHave(text("Иван Иванов"), text("ivanov@mail.er"),text("1234567890"),
                 text("English"), text("Минск, Независимости проспект"),text("file.rtf"),
                 text("Uttar Pradesh Agra"),text("03 May,1990"),text("Female"),text("Sports"));
-
     }
 }
 
